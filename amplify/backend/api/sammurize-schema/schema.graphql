@@ -1,0 +1,4 @@
+type EmailList @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Email: AWSEmail!
+}

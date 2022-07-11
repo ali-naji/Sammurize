@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "Sammurize",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-sammurize-staging-22731-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/b2375bf98aaa6d0cdb41e55c20b5e1b1e87d993a"
+}
